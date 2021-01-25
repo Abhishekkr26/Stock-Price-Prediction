@@ -1,2 +1,3 @@
 # Stock-Price-Prediction
 Prediction of stock price using Linear Regression
+In this repo i wil be predicting Stock Price using Linear Regression. The objective of this repo is to provide a wholistic understanding about various steps involved in building a best fit line using Linear regression algorithm. Stock price data is a perfect use case to build a machine learning model by collecting past data and predicting the future data points. Here i will try to tell about how to make raw data suitable to build a model, get more insights about the dataset, understand how to use various tools for stock markets and learn in-depth about the linear regression algorithm.
